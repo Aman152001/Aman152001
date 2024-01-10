@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **AWS , Git**
 
-- 👨‍💻 All of my projects are available at [https://amanyadavportfolio.netlify.app/](https://amanyadavportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amanyadav.info/](https://amanyadav.info/)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **amanpyadav15@gmail.com**
 
-- 📄 Know about my experiences [https://amanyadavportfolio.netlify.app/files/Resume.pdf](https://amanyadavportfolio.netlify.app/files/Resume.pdf)
+- 📄 Know about my experiences [https://amanyadav.info/](https://amanyadavportfolio.netlify.app/files/Resume.pdf)
 
 - ⚡ Fun fact **No one can beat me in fall guys**
 
