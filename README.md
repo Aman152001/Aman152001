@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Yadav</h1>
-<h3 align="center">I am a fourth-year Computer Science student at Brock University, where I am pursuing my passion for technology and problem-solving.</h3>
+<h3 align="center">I am a Graduate Computer Science student from Brock University, where I was pursuing my passion for technology and problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman152001&label=Profile%20views&color=0e75b6&style=flat" alt="aman152001" /> </p>
 
